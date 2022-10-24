@@ -1,0 +1,57 @@
+body {
+    background-image: url(../../images/background/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.main-background {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: var(--primary-color);
+    height: 95vh;
+    width: 1600px;
+}
+
+@media (max-width: 1700px) {
+    .main-background {
+        width: 1400px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .main-background {
+        width: 1200px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .main-background {
+        width: 1000px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .main-background {
+        width: 800px;
+    }
+}
+
+@media (max-width: 900px) {
+    .main-background {
+        width: 600px;
+    }
+}
+
+@media (max-width: 700px) {
+    .main-background {
+        width: 400px;
+    }
+}
+
+@media (max-width: 460px) {
+    .main-background {
+        width: 90%;
+    }
+}
+
