@@ -1,6 +1,6 @@
 :root {
-    --primary-color: grey;
-    --secondary-color: white;
+    --primary-color: rgba(108, 122, 137, 0.95);
+    --secondary-color: rgb(236, 236, 236);
 }
 
 body,

@@ -1,3 +1,17 @@
 main {
     text-align: center;
 }
+
+.main-background > hero > .logo {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 300px;
+}
+
+.main-background > section > .text {
+    color: #001d8d;
+    color: white;
+    font-size: 25px;
+    line-height: 50px;
+    font-weight: 400;
+}

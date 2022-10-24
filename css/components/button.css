@@ -1,0 +1,21 @@
+.main-background > section > .btn {
+    display: inline-block;
+    padding: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: #fc407a;
+    border: none;
+    color: var(--secondary-color);
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow: 0 2px 8px #0002;
+    text-transform: uppercase;
+}
+
+
+.main-background > section > .btn:hover {
+    text-decoration: none;
+    background-color: blue;
+    transition: all 0.5s;
+}
