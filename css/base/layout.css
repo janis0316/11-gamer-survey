@@ -7,9 +7,9 @@ body {
 
 .main-background {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 45px;
     background-color: rgba(0, 0, 0, 0.7);
-    height: 95vh;
+    height: 90vh;
     width: 1600px;
 }
 

@@ -4,8 +4,8 @@ main {
 
 .main-background > hero > .logo {
     padding-top: 30px;
-    padding-bottom: 30px;
-    width: 300px;
+    padding-bottom: 80px;
+    width: 280px;
 }
 
 .main-background > section > .text {
