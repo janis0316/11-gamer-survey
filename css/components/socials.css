@@ -1,16 +1,12 @@
-.main-background > footer {
+main > footer {
     display: flex;
     justify-content: center;
-    width: 1000px;
-    margin-left: calc(50% - 500px);
-    padding-top: 10px;
-    padding-bottom: 10px;
+    width: 100%;
     gap: 20px;
-    margin-bottom: 30px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
-.main-background > footer > .icon {
+main > footer > .icon {
     font-size: 30px;
     text-decoration: none;
     text-align: center;
@@ -22,7 +18,7 @@
     transition: all 0.5s;
 }
 
-.main-background > footer > .icon:hover {
+main > footer > .icon:hover {
     background-color: white;
     color: var(--primary-color);
 

@@ -1,4 +1,4 @@
-.main-background > section > .btn {
+main > section > .btn {
     display: inline-block;
     padding: 0.5em;
     padding-left: 1em;
@@ -11,13 +11,12 @@
     text-decoration: none;
     box-shadow: 0 2px 8px #0002;
     text-transform: uppercase;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 15px 0;
     
 }
 
 
-.main-background > section > .btn:hover {
+main > section > .btn:hover {
     text-decoration: none;
     background-image: linear-gradient(to bottom right, #d802ee, #1e0036);
     transition: all 1s;
